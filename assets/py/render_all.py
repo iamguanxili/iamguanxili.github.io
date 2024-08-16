@@ -13,7 +13,7 @@ with open("../../resume.html", "w") as file:
 with open("../../Research.html", "w") as file:
     file.write(generate_Research_html())
 
-with open("../../courses.html", "w") as file:
+with open("../../coursework.html", "w") as file:
     file.write(generate_courses_html())
 
 import render_til
