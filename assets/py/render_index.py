@@ -26,10 +26,10 @@ def generate_index_html():
                                             <section class="widget thumbnails">
                                                 <a href="#" class="image featured"><img src="images/profile.jpg" alt="" /></a>
                                                 <div id=contact-wrapper>
-                                                    <a href="mailto:gxli21@m.fudan.edu.cn" target="_blank"><h5>gxli21@m.fudan.edu.cn</h5></a>
+                                                    <a href="mailto:jasongxli@gmail.com" target="_blank"><h5>jasongxli@gmail.com</h5></a>
                                                     <section class="widget contact last">
                                                         <ul>
-                                                            <li><a href="mailto:gxli21@m.fudan.edu.cn" class="icon fa-envelope" target="_blank"><span class="label">Email</span></a></li>
+                                                            <li><a href="mailto:jasongxli@gmail.com" class="icon fa-envelope" target="_blank"><span class="label">Email</span></a></li>
                                                             <li><a href="https://github.com/mxgo111" class="icon brands fa-github" target="_blank"><span class="label">Github</span></a></li>
                                                             <li><a href="https://www.linkedin.com/in/maximillian-guo-261943196/" class="icon brands fa-linkedin" target="_blank"><span class="label">Linkedin</span></a></li>
                                                         </ul>
