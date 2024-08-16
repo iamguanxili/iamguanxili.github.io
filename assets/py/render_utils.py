@@ -1,5 +1,5 @@
 def generate_nav_html(name):
-    names = ["index", "projects", "resume", "courses", "til"]
+    names = ["index", "Research", "resume", "courses", "til"]
     idx = -1
     for i, n in enumerate(names):
         if n == name:
@@ -9,7 +9,7 @@ def generate_nav_html(name):
     list_items = [
         "<a href=\"https://iamguanxili.github.io/index.html\">About Me</a>",
         "<a href=\"https://iamguanxili.github.io/resume.html\">Resume</a>",
-        "<a href=\"https://iamguanxili.github.io/projects.html\">Projects</a>",
+        "<a href=\"https://iamguanxili.github.io/Research.html\">Research</a>",
         "<a href=\"https://iamguanxili.github.io/courses.html\">Courses</a>",
         "<a href=\"https://iamguanxili.github.io/til/index.html\">TIL</a>"
     ]

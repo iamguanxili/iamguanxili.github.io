@@ -1,7 +1,7 @@
 from render_utils import *
 
-def generate_projects_html():
-    projects_html = f"""
+def generate_Research_html():
+    Research_html = f"""
     <!DOCTYPE HTML>
     <!--
         Verti by HTML5 UP
@@ -13,7 +13,7 @@ def generate_projects_html():
         <body class="is-preload homepage">
             <div id="page-wrapper">
 
-                {generate_header_html("projects")}
+                {generate_header_html("Research")}
 
                 <!-- Main -->
 				<div id="main-wrapper">
@@ -77,4 +77,4 @@ def generate_projects_html():
     </html>
     """
 
-    return projects_html
+    return Research_html
