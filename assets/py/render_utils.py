@@ -32,7 +32,7 @@ def generate_logo_html():
     return """
     <!-- Logo -->
         <div id="logo">
-            <h1><a href="https://iamguanxili.github.io/index.html">Jason Guanxi Li</a></h1>
+            <h1><a href="https://iamguanxili.github.io/index.html">Guanxi Li</a></h1>
         </div>
     """
 
@@ -53,7 +53,7 @@ def generate_header_html(name):
 def generate_head_html():
     return r"""
     <head>
-        <title>Jason Guanxi Li's Website</title>
+        <title>Guanxi Li's Website</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <link rel="stylesheet" href="https://iamguanxili.github.io/assets/css/main.css" />
@@ -77,7 +77,7 @@ def generate_footer_html():
                     <div class="col-12">
                         <div id="copyright">
                             <ul class="menu">
-                                <li>&copy; 2022 Jason Guanxi Li </li>
+                                <li>&copy; 2022 Guanxi Li </li>
                                 <li>Hosted on GitHub Pages</li>
                                 <li>Design: <a href="http://html5up.net">HTML5 UP (Verti)</a></li>
                             </ul>
