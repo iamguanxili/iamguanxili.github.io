@@ -1984,17 +1984,16 @@ input, select, textarea {
 	}
 
 		#logo h1 {
-			/* background: #ff4486; */
-			/* color: #fff; */
-			border-radius: 6px;
-			font-family: 'Oleo Script', 'PingFang SC', 'Microsoft YaHei', 'SimHei', serif;
+			font-family: 'Oleo Script', 'KaiTi', serif;
 			font-weight: 400;
-			padding: 0.25em 0.2em 0.25em 0.2em;
+			padding: 0.25em 0.2em;
 			font-size: 3.25em;
 			letter-spacing: 0.05em;
 			display: inline-block;
 			vertical-align: middle;
 		}
+	
+		
 
 		#logo span {
 			font-weight: 800;
