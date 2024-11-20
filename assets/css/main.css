@@ -1871,7 +1871,8 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+		    /*font-family: 'Open Sans', sans-serif;*/
+			font-family: 'Open Sans', sans-serif;
 			font-weight: 400;
 		}
 
@@ -1884,7 +1885,8 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			/*font-family: 'Font Awesome 5 Brands';*/
+			font-family: 'Open Sans', sans-serif;
 		}
 
 		.icon > .label {
@@ -2414,7 +2416,8 @@ input, select, textarea {
 						text-rendering: auto;
 						line-height: 1;
 						text-transform: none !important;
-						font-family: 'Font Awesome 5 Free';
+						/*font-family: 'Font Awesome 5 Free';*/
+						font-family: 'Open Sans', sans-serif;
 						font-weight: 900;
 					}
 
