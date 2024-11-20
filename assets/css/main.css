@@ -1871,9 +1871,8 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-		    /*font-family: 'Open Sans', sans-serif;*/
 			font-family: 'Open Sans', sans-serif;
-			font-weight: 400;
+			font-weight: 300;
 		}
 
 		.icon:before {
@@ -1881,7 +1880,7 @@ input, select, textarea {
 		}
 
 		.icon.solid:before {
-			font-weight: 900;
+			font-weight: 700;
 		}
 
 		.icon.brands:before {
@@ -2418,7 +2417,7 @@ input, select, textarea {
 						text-transform: none !important;
 						/*font-family: 'Font Awesome 5 Free';*/
 						font-family: 'Open Sans', sans-serif;
-						font-weight: 900;
+						font-weight: 700;
 					}
 
 					#navToggle .toggle:before {
