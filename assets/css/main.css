@@ -118,8 +118,8 @@ input, select, textarea {
 	input, select, textarea {
 		font-family: 'Open Sans', sans-serif;
 		font-size: 13pt;
-		color: #696969;
-		font-weight: 300;
+		color: #000000;
+		font-weight: 500;
 		line-height: 2.25em;
 	}
 
@@ -133,8 +133,8 @@ input, select, textarea {
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #444;
-		font-weight: 800;
+		color: #000000;
+		font-weight: 600;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
