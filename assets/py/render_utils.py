@@ -32,7 +32,7 @@ def generate_logo_html():
     return """
     <!-- Logo -->
         <div id="logo">
-            <h1><a href="https://iamguanxili.github.io/index.html">Guanxi Li</a></h1>
+            <h1><a href="https://iamguanxili.github.io/index.html">Guanxi Li 李冠曦</a></h1>
         </div>
     """
 
