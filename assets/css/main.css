@@ -86,7 +86,7 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	body {
+	/*body {
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
 		background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
 		background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
@@ -100,7 +100,12 @@ input, select, textarea {
 		color: #696969;
 		font-weight: 300;
 		line-height: 2.25em;
+	} */
+	body {
+		background-color: #ffffff; /* 修改为纯白色 */
+		background-image: none; /* 移除背景图片 */
 	}
+	
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
