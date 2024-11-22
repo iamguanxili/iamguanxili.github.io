@@ -1784,6 +1784,14 @@ input, select, textarea {
 			padding-left: 0.25em;
 		}
 
+    /* 自定义样式: 调整 li 的第二行 */
+	li .additional-note {
+		font-size: 0.9em; /* 字体稍小 */
+		color: #6c757d;  /* 颜色稍淡 */
+		margin-left: 2em; /* 与第一行文字对齐 */
+		display: block;  /* 确保换行 */
+	}
+
 /* Actions */
 
 	ul.actions {
