@@ -2519,7 +2519,8 @@ input, select, textarea {
 
 				#navPanel .depth-0 {
 					color: #444;
-					font-weight: 800;
+					font-family: 'Merriweather', serif;
+					font-weight: 500;
 				}
 
 			body.navPanel-visible #page-wrapper {
