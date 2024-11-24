@@ -2051,6 +2051,7 @@ input, select, textarea {
 					font-weight: 800;
 					letter-spacing: 0.025em;
 					color: #696969;
+					font-family: 'Merriweather', serif;
 					text-decoration: none;
 					border-radius: 6px;
 					padding: 0.5em 1em 0.5em 1em;
@@ -2070,6 +2071,7 @@ input, select, textarea {
 
 				#nav ul li.current a {
 					background: #444;
+					font-family: 'Merriweather', serif;
 					color: #fff;
 				}
 
